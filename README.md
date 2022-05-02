@@ -14,7 +14,7 @@
 ![CSS3](https://img.icons8.com/color/30/css3.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Php](https://i.hizliresim.com/aa6cxyp.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)<br>
 
 
-[![İnstagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seoxdd) 
+[![İnstagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furk5n) 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bmd3bob163x0q1hu8qbopd7ca) 
 
 <img src="https://komarev.com/ghpvc/?username=seotamsin&label=Ziyaretçi%20Sayısı&color=552b75" alt="seotamsin" /><br>
