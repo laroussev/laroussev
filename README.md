@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=4000&width=500&lines=Tecr%C3%BCbelerim;SEO+Metin+Yazarl%C4%B1%C4%9F%C4%B1;PHP%2C+HTML%2C+CSS%2C++JS;Microsoft+Office+;Adobe+Photoshop)](https://github.com/seotamsin)
 ```css
 #seotamsin {
-    height  :       194;
+    height  :       197;
     width   :        86;
     job     :   student;
     sex     :       sex;
@@ -18,7 +18,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bmd3bob163x0q1hu8qbopd7ca) 
 
 <img src="https://komarev.com/ghpvc/?username=seotamsin&label=Ziyaretçi%20Sayısı&color=552b75" alt="seotamsin" /><br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/209094878154457088)](https://discord.com/users/209094878154457088)
 
 ---
 
