@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=4000&width=500&lines=Tecr%C3%BCbelerim;SEO+Metin+Yazarl%C4%B1%C4%9F%C4%B1;PHP%2C+HTML%2C+CSS%2C++JS;Microsoft+Office+;Adobe+Photoshop)](https://github.com/seotamsin)
 ```css
-#seotamsin {
-    height  :       199;
-    width   :        86;
+#laroussev {
+    height  :       200;
+    width   :        94;
     job     :   student;
     sex     :       sex;
   }
