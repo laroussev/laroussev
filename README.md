@@ -1,6 +1,6 @@
 # Merhaba (:coffee::computer::bulb::heart:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&duration=4000&width=500&lines=Tecr%C3%BCbelerim;SEO+Metin+Yazarl%C4%B1%C4%9F%C4%B1;PHP%2C+HTML%2C+CSS%2C++JS;Microsoft+Office+;Adobe+Photoshop)](https://github.com/seotamsin)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&duration=4000&width=500&lines=My+Experiences;PYTHON PHP, HTML, CSS, ++JS;Data+Collection Data+Analysis;SEO+Content+Writing;Microsoft+Office+;Adobe+Photoshop)](https://github.com/laroussev)
 ```css
 #laroussev {
     height  :       200;
