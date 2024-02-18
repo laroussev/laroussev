@@ -19,5 +19,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=laroussev&label=Ziyaretçi%20Sayısı&color=552b75" alt="laroussev" /><br>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/laroussev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laroussev" /></a></p><br><br>
 ---
 
