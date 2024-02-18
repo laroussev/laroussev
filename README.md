@@ -11,7 +11,7 @@
 ```
 ## :earth_asia: My Community
 
-![CSS3](https://img.icons8.com/color/30/css3.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Php](https://i.hizliresim.com/aa6cxyp.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)<br>
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)![Php](https://i.hizliresim.com/aa6cxyp.png)![CSS3](https://img.icons8.com/color/30/css3.png)![HTML5](https://img.icons8.com/color/30/html-5.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)<br>
 
 
 [![İnstagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furk5n) 
