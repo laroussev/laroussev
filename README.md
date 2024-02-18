@@ -17,7 +17,7 @@
 [![İnstagram](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furk5n) 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/bmd3bob163x0q1hu8qbopd7ca) 
 
-<img src="https://komarev.com/ghpvc/?username=seotamsin&label=Ziyaretçi%20Sayısı&color=552b75" alt="seotamsin" /><br>
+<img src="https://komarev.com/ghpvc/?username=laroussev&label=Ziyaretçi%20Sayısı&color=552b75" alt="laroussev" /><br>
 
 ---
 
