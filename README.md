@@ -15,7 +15,7 @@
     height  :       200;
     width   :        94;
     job     :   student;
-    sex     :       sex;
+    sex     :       man;
   }
 ```
 
