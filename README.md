@@ -10,8 +10,8 @@
     
 </p>
 
-```css
-#laroussev {
+```js
+const laroussev = {
     height  :       200;
     width   :        94;
     job     :   student;
