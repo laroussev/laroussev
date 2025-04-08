@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A interesting software developer from Turkey</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&duration=4000&width=500&lines=My+Experiences;PYTHON,%20PHP,%20HTML,%20CSS,%20++JS;Data+Collection%20Data+Analysis;SEO+Content+Writing;Microsoft+Office+;Adobe+Photoshop)](https://github.com/laroussev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&duration=4000&width=500&lines=My+Experiences;PYTHON,%20PHP,%20NODEJS,%20HTML,%20CSS,%20++JS;Data+Collection%20Data+Analysis)](https://github.com/laroussev)
 
 </p>
 
