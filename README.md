@@ -6,7 +6,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/furk5n" target="blank"><img align="center" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="furk5n"/></a>
-<a href="https://open.spotify.com/user/bmd3bob163x0q1hu8qbopd7ca" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="furk5n"/></a>
     
 </p>
 
