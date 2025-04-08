@@ -27,9 +27,4 @@ const laroussev = {
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/laroussev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laroussev" /></a></p><br><br>
 
-<p><img src="https://komarev.com/ghpvc/?username=seotamsin&label=Ziyaretçi%20Sayısı&color=552b75" width="210" alt="laroussev" /><br><a href="https://www.buymeacoffee.com/laroussev"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laroussev" /></a></p><br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/furk5n" target="blank"><img align="center" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="furk5n"/></a>
-    
+<p><img src="https://komarev.com/ghpvc/?username=seotamsin&label=Ziyaretçi%20Sayısı&color=552b75" width="210" alt="laroussev" /></p><br><br>
