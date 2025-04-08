@@ -9,8 +9,8 @@
 const laroussev = {
     height  :       200;
     width   :        94;
-    job     :   student;
-    sex     :       man;
+    job     :   "student";
+    sex     :       "man";
   }
 ```
 
